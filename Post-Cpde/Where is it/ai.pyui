@@ -1,0 +1,97 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{-46, -39}, {482, 570}}",
+        "class" : "ImageView",
+        "attributes" : {
+          "flex" : "",
+          "frame" : "{{70, 70}, {100, 100}}",
+          "class" : "ImageView",
+          "name" : "imageview1",
+          "uuid" : "79B32EFE-0544-4DA2-BE87-73D95F3C1D25"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{81, 271}, {219, 49}}",
+        "class" : "Label",
+        "attributes" : {
+          "flex" : "",
+          "name" : "label1",
+          "text_color" : "RGBA(0.383170,0.592604,0.985294,1.000000)",
+          "frame" : "{{45, 104}, {150, 32}}",
+          "tint_color" : "RGBA(0.389978,0.686701,0.877451,1.000000)",
+          "uuid" : "9A2BF1B3-40D9-4370-B6AD-264F724D9399",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Where ",
+          "font_size" : 24,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{107, 334}, {200, 52}}",
+        "class" : "TextField",
+        "attributes" : {
+          "action" : "copy",
+          "flex" : "",
+          "font_size" : 17,
+          "frame" : "{{20, 104}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "DC3418D5-2051-48A5-A641-5DB60FC57E41",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "name" : "textfield1",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{107, 202}, {176, 61}}",
+        "class" : "Button",
+        "attributes" : {
+          "uuid" : "60F99969-70E4-4F56-A290-68914CF79742",
+          "font_size" : 20,
+          "corner_radius" : 1,
+          "background_color" : "RGBA(0.640432,0.678105,0.643708,1.000000)",
+          "frame" : "{{80, 104}, {80, 32}}",
+          "tint_color" : "RGBA(0.145425,0.145425,0.145425,1.000000)",
+          "border_width" : 2,
+          "border_color" : "RGBA(0.586957,0.500000,1.000000,1.000000)",
+          "title" : "SEARCH",
+          "action" : "button_tapped",
+          "class" : "Button",
+          "name" : "button1",
+          "flex" : "B"
+        },
+        "selected" : true
+      }
+    ],
+    "frame" : "{{0, 0}, {320, 320}}",
+    "class" : "View",
+    "attributes" : {
+      "name" : "",
+      "enabled" : true,
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]

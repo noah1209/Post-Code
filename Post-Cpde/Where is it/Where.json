@@ -1,0 +1,116 @@
+{
+   "response": {
+      "location": [
+         {
+            "city": "\u798f\u5ca1\u5e02\u5357\u533a",
+            "city_kana": "\u3075\u304f\u304a\u304b\u3057\u307f\u306a\u307f\u304f",
+            "town": "\u5357\u5927\u6a4b\u4e8c\u4e01\u76ee",
+            "town_kana": "\u307f\u306a\u307f\u304a\u304a\u306f\u30572\u3061\u3087\u3046\u3081",
+            "x": "130.421121",
+            "y": "33.550843",
+            "distance": 181.88795126940917,
+            "prefecture": "\u798f\u5ca1\u770c",
+            "postal": "8150034"
+         },
+         {
+            "city": "\u798f\u5ca1\u5e02\u5357\u533a",
+            "city_kana": "\u3075\u304f\u304a\u304b\u3057\u307f\u306a\u307f\u304f",
+            "town": "\u548c\u7530\u56db\u4e01\u76ee",
+            "town_kana": "\u308f\u30604\u3061\u3087\u3046\u3081",
+            "x": "130.420347",
+            "y": "33.548633",
+            "distance": 275.62746429737007,
+            "prefecture": "\u798f\u5ca1\u770c",
+            "postal": "8111343"
+         },
+         {
+            "city": "\u798f\u5ca1\u5e02\u5357\u533a",
+            "city_kana": "\u3075\u304f\u304a\u304b\u3057\u307f\u306a\u307f\u304f",
+            "town": "\u4e09\u5b85\u4e8c\u4e01\u76ee",
+            "town_kana": "\u307f\u3084\u30512\u3061\u3087\u3046\u3081",
+            "x": "130.426066",
+            "y": "33.549325",
+            "distance": 311.55883989717,
+            "prefecture": "\u798f\u5ca1\u770c",
+            "postal": "8111344"
+         },
+         {
+            "city": "\u798f\u5ca1\u5e02\u5357\u533a",
+            "city_kana": "\u3075\u304f\u304a\u304b\u3057\u307f\u306a\u307f\u304f",
+            "town": "\u548c\u7530\u4e09\u4e01\u76ee",
+            "town_kana": "\u308f\u30603\u3061\u3087\u3046\u3081",
+            "x": "130.422723",
+            "y": "33.547101",
+            "distance": 324.5558962068639,
+            "prefecture": "\u798f\u5ca1\u770c",
+            "postal": "8111343"
+         },
+         {
+            "city": "\u798f\u5ca1\u5e02\u5357\u533a",
+            "city_kana": "\u3075\u304f\u304a\u304b\u3057\u307f\u306a\u307f\u304f",
+            "town": "\u4e09\u5b85\u4e00\u4e01\u76ee",
+            "town_kana": "\u307f\u3084\u30511\u3061\u3087\u3046\u3081",
+            "x": "130.426214",
+            "y": "33.551501",
+            "distance": 356.339718615247,
+            "prefecture": "\u798f\u5ca1\u770c",
+            "postal": "8111344"
+         },
+         {
+            "city": "\u798f\u5ca1\u5e02\u5357\u533a",
+            "city_kana": "\u3075\u304f\u304a\u304b\u3057\u307f\u306a\u307f\u304f",
+            "town": "\u5357\u5927\u6a4b\u4e00\u4e01\u76ee",
+            "town_kana": "\u307f\u306a\u307f\u304a\u304a\u306f\u30571\u3061\u3087\u3046\u3081",
+            "x": "130.422482",
+            "y": "33.553917",
+            "distance": 435.3769621391424,
+            "prefecture": "\u798f\u5ca1\u770c",
+            "postal": "8150034"
+         },
+         {
+            "city": "\u798f\u5ca1\u5e02\u5357\u533a",
+            "city_kana": "\u3075\u304f\u304a\u304b\u3057\u307f\u306a\u307f\u304f",
+            "town": "\u82e5\u4e45\u56e3\u5730",
+            "town_kana": "\u308f\u304b\u3072\u3055\u3060\u3093\u3061",
+            "x": "130.418901",
+            "y": "33.554215",
+            "distance": 591.7364710966998,
+            "prefecture": "\u798f\u5ca1\u770c",
+            "postal": "8150048"
+         },
+         {
+            "city": "\u798f\u5ca1\u5e02\u5357\u533a",
+            "city_kana": "\u3075\u304f\u304a\u304b\u3057\u307f\u306a\u307f\u304f",
+            "town": "\u82e5\u4e45\u4e8c\u4e01\u76ee",
+            "town_kana": "\u308f\u304b\u3072\u30552\u3061\u3087\u3046\u3081",
+            "x": "130.417063",
+            "y": "33.552424",
+            "distance": 596.910396408286,
+            "prefecture": "\u798f\u5ca1\u770c",
+            "postal": "8150042"
+         },
+         {
+            "city": "\u798f\u5ca1\u5e02\u5357\u533a",
+            "city_kana": "\u3075\u304f\u304a\u304b\u3057\u307f\u306a\u307f\u304f",
+            "town": "\u548c\u7530\u4e00\u4e01\u76ee",
+            "town_kana": "\u308f\u30601\u3061\u3087\u3046\u3081",
+            "x": "130.426105",
+            "y": "33.545346",
+            "distance": 602.9687154508429,
+            "prefecture": "\u798f\u5ca1\u770c",
+            "postal": "8111343"
+         },
+         {
+            "city": "\u798f\u5ca1\u5e02\u5357\u533a",
+            "city_kana": "\u3075\u304f\u304a\u304b\u3057\u307f\u306a\u307f\u304f",
+            "town": "\u548c\u7530\u4e8c\u4e01\u76ee",
+            "town_kana": "\u308f\u30602\u3061\u3087\u3046\u3081",
+            "x": "130.419475",
+            "y": "33.545088",
+            "distance": 629.8575295212663,
+            "prefecture": "\u798f\u5ca1\u770c",
+            "postal": "8111343"
+         }
+      ]
+   }
+}
